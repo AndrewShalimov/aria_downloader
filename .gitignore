@@ -1,0 +1,15 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/logs
+/LOG_FILE_IS_UNDEFINED
+/FreeImage.dll
+/perceptualdiff.exe
+/diff.png
+/o.ppm
+
